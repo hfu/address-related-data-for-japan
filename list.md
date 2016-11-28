@@ -18,6 +18,7 @@ All the translation is purely for the purpose of reference and not authorized at
 [Japan part of OpenAddress](https://github.com/openaddresses/openaddresses/tree/master/sources/jp) seems to use this dataset.
 
 # Local Governments
+FIXME
 
 # Public Companies
 ## Japan Post
@@ -25,3 +26,4 @@ All the translation is purely for the purpose of reference and not authorized at
 - [Postcode data](http://www.post.japanpost.jp/zipcode/download.html)
 
 # Private Sector
+FIXME
