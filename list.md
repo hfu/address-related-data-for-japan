@@ -1,4 +1,8 @@
+# What is this?
 Links to address related data for Japan; polygon, point, non-geospatial or whatever!
+
+All the translation is purely for the purpose of reference and not authorized at all.
+
 # National Government
 ## Geospatial Information Authority of Japan, Ministry of Land, Infrastructure, Transport and Tourism
 ### Frontage number data
