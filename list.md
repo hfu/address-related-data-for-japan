@@ -15,6 +15,8 @@ All the translation is purely for the purpose of reference and not authorized at
 ### District(_oaza-chochomoku_)-level positional reference data (polygon)
 - [District(_oaza-chochomoku_)-level positional reference data](http://nlftp.mlit.go.jp/isj/)
 
+[Japan part of OpenAddress](https://github.com/openaddresses/openaddresses/tree/master/sources/jp) seems to use this dataset.
+
 # Local Governments
 
 # Public Companies
